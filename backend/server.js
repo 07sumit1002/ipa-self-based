@@ -25,6 +25,7 @@ app.use(
       "https://ai-proctored-system.vercel.app",
       "http://localhost:3000",
       "http://localhost:5000",
+      'https://ipa-self-based.onrender.com'
     ],
     credentials: true,
     methods: ["GET", "POST", "PUT", "DELETE"],
